@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "UFO Game",
-"dataUrl": "TEST.data.unityweb",
-"wasmCodeUrl": "TEST.wasm.code.unityweb",
-"wasmFrameworkUrl": "TEST.wasm.framework.unityweb",
+"dataUrl": "UFO_WEBGL.data.unityweb",
+"wasmCodeUrl": "UFO_WEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "UFO_WEBGL.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
